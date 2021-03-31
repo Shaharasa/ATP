@@ -6,5 +6,5 @@ public class MyMazeGenerator extends AMazeGenerator{
         return null;
     }
     //Test
-    //Test2
+    //Test23
 }
